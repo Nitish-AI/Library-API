@@ -34,8 +34,8 @@ This project is a **Spring Boot-based RESTful API** designed to manage a simple 
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/Nitish-AI/Library.git
-   cd Library
+   git clone https://github.com/Nitish-AI/Library-API.git
+   cd Library-API
    ```
 2. Configure your database in application.properties
 
