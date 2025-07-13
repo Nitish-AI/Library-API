@@ -28,7 +28,7 @@ This project is a **Spring Boot-based RESTful API** designed to manage a simple 
 
 ## Project structure
 
-<img width="447" height="852" alt="image" src="https://github.com/user-attachments/assets/d29046cd-b8bc-402e-9154-3b24704051fa" />
+![image](https://github.com/user-attachments/assets/d29046cd-b8bc-402e-9154-3b24704051fa)
 
 ## How to Run the Project
 
