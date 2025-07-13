@@ -28,7 +28,7 @@ This project is a **Spring Boot-based RESTful API** designed to manage a simple 
 
 ## Project structure
 
-![image](https://github.com/user-attachments/assets/d29046cd-b8bc-402e-9154-3b24704051fa)
+![image](https://github.com/user-attachments/assets/02266635-0d18-4a1c-9760-034a22301ebe)
 
 ## How to Run the Project
 
@@ -104,22 +104,22 @@ Each book includes the following fields:
 | `POST /library/add` |
 | ------------------- |
 
-![image](https://github.com/user-attachments/assets/4ec67178-3a82-40d9-8997-a8e66098ed89)
+![image](https://github.com/user-attachments/assets/bd34c76c-db66-404b-a910-3ed49bad5f74)
 
 | `GET /library/all` |
 | ------------------ |
 
-![image](https://github.com/user-attachments/assets/86dde048-c342-4b69-bc93-6e9fb609bc66)
+![image](https://github.com/user-attachments/assets/94fbe749-cd41-4e90-8797-bb30258d8ab3)
 
 | ` book table` |
 | ------------- |
 
-![image](https://github.com/user-attachments/assets/697d3bf9-1a47-48ca-bf40-fbbe4c5d56dd)
+![image](https://github.com/user-attachments/assets/d2957a46-0fd4-49ae-91b4-9b3c1ae0e760)
 
 | `GET library/2` |
 | --------------- |
 
-![image](https://github.com/user-attachments/assets/22d25f8d-835a-4fa6-acec-e1afa17c52e6)
+![image](https://github.com/user-attachments/assets/70fe2ed4-99df-4983-93f6-e02c3732f2c9)
 
 | `DELETE /library/3` |
 | ------------------- |
@@ -129,17 +129,17 @@ Each book includes the following fields:
 | ` book table` |
 | ------------- |
 
-![image](https://github.com/user-attachments/assets/8aa3980b-d772-4414-affa-00ec6ceb0cd4)
+![image](https://github.com/user-attachments/assets/b38da78e-4a5e-4b68-a186-88b3c92ebe4a)
 
 | `PATCH /library/2/availability?available=false` |
 | ----------------------------------------------- |
 
-![image](https://github.com/user-attachments/assets/969c21bd-d9b7-4359-ae54-41e9644d32f4)
+![image](https://github.com/user-attachments/assets/60cc0589-f200-430d-b2db-447be3befe15)
 
 | ` book table` |
 | ------------- |
 
-![Image](https://github.com/user-attachments/assets/f6262f86-b410-41c8-b4b8-ec5db5077c1e)
+![Image](https://github.com/user-attachments/assets/a0f61ad4-af36-4432-859c-5c9097ab41c7)
 
 ## 📄 License
 
