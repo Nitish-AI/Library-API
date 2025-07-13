@@ -124,7 +124,7 @@ Each book includes the following fields:
 | `DELETE /library/3` |
 | ------------------- |
 
-![image](https://github.com/user-attachments/assets/c1aa0749-5db2-4fe5-b032-d1022b965864)
+![image](https://github.com/user-attachments/assets/d5b43f14-661c-470f-8c04-ba7a33aa8a00)
 
 | ` book table` |
 | ------------- |
