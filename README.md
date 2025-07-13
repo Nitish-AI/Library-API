@@ -103,42 +103,34 @@ Each book includes the following fields:
 
 | `POST /library/add` |
 | ------------------- |
-
 ![image](https://github.com/user-attachments/assets/bd34c76c-db66-404b-a910-3ed49bad5f74)
 
 | `GET /library/all` |
 | ------------------ |
-
 ![image](https://github.com/user-attachments/assets/94fbe749-cd41-4e90-8797-bb30258d8ab3)
 
 | ` book table` |
 | ------------- |
-
 ![image](https://github.com/user-attachments/assets/d2957a46-0fd4-49ae-91b4-9b3c1ae0e760)
 
 | `GET library/2` |
 | --------------- |
-
 ![image](https://github.com/user-attachments/assets/70fe2ed4-99df-4983-93f6-e02c3732f2c9)
 
 | `DELETE /library/3` |
 | ------------------- |
-
 ![image](https://github.com/user-attachments/assets/d5b43f14-661c-470f-8c04-ba7a33aa8a00)
 
 | ` book table` |
 | ------------- |
-
 ![image](https://github.com/user-attachments/assets/b38da78e-4a5e-4b68-a186-88b3c92ebe4a)
 
 | `PATCH /library/2/availability?available=false` |
 | ----------------------------------------------- |
-
 ![image](https://github.com/user-attachments/assets/60cc0589-f200-430d-b2db-447be3befe15)
 
 | ` book table` |
 | ------------- |
-
 ![Image](https://github.com/user-attachments/assets/a0f61ad4-af36-4432-859c-5c9097ab41c7)
 
 ## 📄 License
